@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Danish-7786/PracticePortfolio.git/static/css/main.7cb2d0b5.css",
+    "main.js": "/Danish-7786/PracticePortfolio.git/static/js/main.fb99aeec.js",
+    "static/media/cv.pdf": "/Danish-7786/PracticePortfolio.git/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/Danish (2).png": "/Danish-7786/PracticePortfolio.git/static/media/Danish (2).145d016741900fb3fe69.png",
+    "index.html": "/Danish-7786/PracticePortfolio.git/index.html",
+    "main.7cb2d0b5.css.map": "/Danish-7786/PracticePortfolio.git/static/css/main.7cb2d0b5.css.map",
+    "main.fb99aeec.js.map": "/Danish-7786/PracticePortfolio.git/static/js/main.fb99aeec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cb2d0b5.css",
+    "static/js/main.fb99aeec.js"
+  ]
+}
